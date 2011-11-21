@@ -1,0 +1,5 @@
+{
+  "haskell": [
+    {"name": "Hoogle", "search": "http://www.haskell.org/hoogle/?hoogle=%%"}
+  ]
+}
