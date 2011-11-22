@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Python",
+    "home": "http://docs.python.org",
+    "google": "docs.python.org"
+  },
+  {
+    "name": "Django",
+    "home": "http://docs.djangoproject.com",
+    "google": "docs.djangoproject.com"
+  }
+]
