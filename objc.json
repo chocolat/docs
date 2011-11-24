@@ -1,10 +1,10 @@
 [
   {
     "name": "Objective-C (Mac)",
-    "search": "http://developer.apple.com/library/mac"
+    "google": "developer.apple.com/library/mac"
   },
   {
     "name": "Objective-C (iOS)",
-    "search": "http://developer.apple.com/library/ios"
+    "google": "developer.apple.com/library/ios"
   }
 ]
