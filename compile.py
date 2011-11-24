@@ -6,7 +6,7 @@ from StringIO import StringIO
 # For each json file
 languages = {}
 for d in os.listdir("."):
-  ext = os.path.splitext(os.path.basename(d))[1]
+  n, ext = os.path.splitext(os.path.basename(d))
   if not ext == '.json': continue
   if d == 'docs.json': continue
   print(d)
@@ -14,7 +14,7 @@ for d in os.listdir("."):
   contents = f.read()
   f.close()
   j = json.load(StringIO(contents))
-  languages[d] = j
+  languages[n] = j
 
 amalg = json.dumps(languages, separators=(',',':'))
 print amalg
