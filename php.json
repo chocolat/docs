@@ -6,7 +6,8 @@
     "hide": [
       "#headnav",
       "#headsearch",
-      ".manualnavbar.manualnavbar_top"
+      ".manualnavbar.manualnavbar_top",
+      "#leftbar"
     ],
     "css": "#layout_2 #content, #layout_3 #content { margin-left: 0 !important; }"
   }
