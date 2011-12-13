@@ -2,6 +2,6 @@
   {
     "name": "Scala",
     "home": "http://www.scala-lang.org/api/current/index.html",
-    "search": "http://scalex.org/?q={%%}"
+    "search": "http://scalex.org/?q=%%"
   }
 ]
